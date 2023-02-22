@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div> WEB SCRAPPER</div>
+    <div> The website is temporerly down</div>
         <BrowserRouter>
         <div className="m-5">
         <Switch>
